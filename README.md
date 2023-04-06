@@ -5,7 +5,7 @@ The Bulls and Cows game is a classic code-breaking game where the player tries t
 ## How to Play
 To play the Bulls and Cows game on your local machine:
 
-Clone this repository to your local machine using git clone https://github.com/mertbarbaros/bulls-and-cows.git.
+Clone this repository to your local machine using git clone https://github.com/mertbarbaros/bullsandcows.git
 
 Navigate to the directory where the Bulls&Cows.py file is located using the Terminal or Command Prompt.
 
